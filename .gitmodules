@@ -1,6 +1,3 @@
 [submodule ".tmux/vendor/seebi/tmux-colors-solarized"]
 	path = .tmux/vendor/seebi/tmux-colors-solarized
 	url = https://github.com/seebi/tmux-colors-solarized.git
-[submodule ".tmux/vendor/tmux-plugins/tmux-resurrect"]
-	path = .tmux/vendor/tmux-plugins/tmux-resurrect
-	url = https://github.com/tmux-plugins/tmux-resurrect
